@@ -1,4 +1,4 @@
-export class UnionFindCrude {
+export class UnionFindEager {
     private readonly _arr: number[];
 
     constructor(length: number) {
